@@ -1,5 +1,8 @@
-# Marina Morcos
+---
+layout: default
+---
 
+# Marina Morcos
 ![Profile Photo](assets/marina.jpg)
 
 ## About Me
