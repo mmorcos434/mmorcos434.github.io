@@ -20,8 +20,15 @@ Hi! My name is **Marina Morcos**.
 ---
 
 ## Projects
-- **EchoVisit (IBM Hackathon)** – AI-powered doctor visit summarization  
-- **Beaver Bot** – RAG-based chatbot for CCNY students  
+- **EchoVisit (IBM Hackathon)** – Designed & connected database to Supabase to store patient and doctor accounts along with visit notes, supporting an AI-powered doctor visit summarization platform, built with IBM watsonx.ai and Orchestrate
+
+– Connected the backend to the database using Flask, enabling secure creation and storage of doctor and patient accounts in the corresponding tables, improving efficiency by 30%
+
+  
+- **Beaver Bot** – Programmed a RAG-based chatbot for CCNY students that integrates LlamaIndex, ChromaDB, and OpenAI with access to course notes and provides human-like assistance related to answering student questions and assisting with tasks.
+
+– Built a responsive Streamlit front-end using python and collaborated on the integration to backend, improving seamless, real-time user interactions by 15%
+
 
 ---
 

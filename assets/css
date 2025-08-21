@@ -2,7 +2,7 @@
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   color: #333;
-  background-color: #f9fafc;
+  background-color: #f99ccc;
   line-height: 1.6;
   max-width: 800px;
   margin: auto;
@@ -27,7 +27,7 @@ a:hover {
 
 /* Profile picture */
 img.profile-pic {
-  width: 180px;
+  width: 150px;
   height: auto;
   border-radius: 50%;
   display: block;

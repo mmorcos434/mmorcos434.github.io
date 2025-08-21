@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: Marina Morcos
-description: Marina Morcos' personal website!
+
+include:
+  - assets/css
