@@ -2,7 +2,7 @@
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   color: #333;
-  background-color: #f99ccc;
+  background-color: #f9f9f9;
   line-height: 1.6;
   max-width: 800px;
   margin: auto;
@@ -34,9 +34,9 @@ img.profile-pic {
   margin: 0 auto 1.5rem auto;
 }
 
-/* Section spacing */
-section {
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid #ddd;
+/* Section dividers */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 2rem 0;
 }
